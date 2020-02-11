@@ -1,0 +1,9 @@
+diff a/exercicios_Sprint2.sql b/exercicios_Sprint2.sql	(rejected hunks)
+@@ -99,7 +99,6 @@
+ --2. Implemente uma fun��o, denominada funcSobreposicoesVeiculosCondutores, que retorne um
+ --valor booleano no caso de existirem sobreposi��es temporais nas associa��es de ve�culos a
+ --condutores.
+-
+ create or replace function funcSobreposicoesVeiculosCondutores return boolean  as 
+     bool boolean;
+     inicio date;
